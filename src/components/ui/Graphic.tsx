@@ -1,6 +1,6 @@
  
 import { motion, useInView } from 'framer-motion'
-
+import { useRef } from 'react';
 export const Graphic = () => {
     const images = [
         { src: "ill3.png", alt: "Illustrator" },
