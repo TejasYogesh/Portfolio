@@ -1,5 +1,5 @@
-import React from 'react'
-import { motion } from 'framer-motion'
+ 
+// import { motion } from 'framer-motion'
 // import Rating from '@/components/Rating'
 // import '../cssFiles/Events.css'
 import './Line.css'

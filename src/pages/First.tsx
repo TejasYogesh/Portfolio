@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 import './Come.css';
 // import { Exmp } from 'react-type-animation';
 import ExampleComponent from '@/components/ui/TypeAnimation';

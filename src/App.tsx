@@ -5,14 +5,14 @@ import ScrollLinked from './components/ui/Down';
 // import LetterGlitch from './components/ui/Glitch';
 import { Graphic } from './components/ui/Graphic';
 import { useRef } from 'react'
-import { motion, useInView } from 'framer-motion'
-import Come from './pages/Come';
+// import { useInView } from 'framer-motion'
+// import Come from './pages/Come';
 import Dot from './components/ui/Dot';
 import Line from './pages/Line'
 import First from './pages/First';
 function App() {
   const fadeRef = useRef(null)
-  const isInView = useInView(fadeRef, { once: true })
+  // const isInView = useInView(fadeRef, { once: true })
 
 
   return (

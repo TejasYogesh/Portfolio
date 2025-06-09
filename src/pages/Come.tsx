@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 import './Come.css'
 export default function Come() {
     
